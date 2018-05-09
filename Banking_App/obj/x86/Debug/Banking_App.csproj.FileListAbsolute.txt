@@ -1,0 +1,6 @@
+/Users/jennaking/Projects/Banking_App/Banking_App/bin/Debug/Banking_App.exe
+/Users/jennaking/Projects/Banking_App/Banking_App/bin/Debug/Banking_App.pdb
+/Users/jennaking/Projects/Banking_App/Banking_App/obj/x86/Debug/Banking_App.csproj.CoreCompileInputs.cache
+/Users/jennaking/Projects/Banking_App/Banking_App/obj/x86/Debug/Banking_App.exe
+/Users/jennaking/Projects/Banking_App/Banking_App/obj/x86/Debug/Banking_App.pdb
+/Users/jennaking/Projects/Banking_App/Banking_App/obj/x86/Debug/Banking_App.csprojAssemblyReference.cache
